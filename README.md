@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Sungmin Choo
 
-<!--
-**sungmin-c/sungmin-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in building practical web applications and user-facing tools.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧳 [Trip Plan Viewer](https://tripplanviewer.com)
+
+A free web tool that turns a trip's schedule, people, shopping list and rules into one shareable plan. No sign-up, and your data stays in your browser.
+
+- Itinerary planner with PNG / PDF export
+- Fill a plan from an AI chat reply (paste it in, choose what to apply)
+- Expense splitter, packing checklist and currency converter
+- Korea destination guides (Incheon, Seoul, Busan, Gangwon) with an official source and last-verified date for every fact
+
+## 💼 Portfolio
+
+[sungminsport.vercel.app](https://sungminsport.vercel.app/)
